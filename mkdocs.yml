@@ -1,5 +1,5 @@
 site_name: Curriculum Vitae Shekoohiyan Sakine
-site_url: https://ultrabug.github.io/mkdocs-static-i18n
+site_url: https://yshekouhi.github.io/shekoohiyan
 repo_url: ''
 
 docs_dir: docs/
@@ -26,7 +26,7 @@ theme:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/ultrabug/mkdocs-static-i18n
+      link: https://github.com/yshekouhi/shekoohiyan
       name: ''
 
 extra_css:
