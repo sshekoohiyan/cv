@@ -1,0 +1,97 @@
+site_name: Curriculum Vitae Shekoohiyan Sakine
+site_url: https://ultrabug.github.io/mkdocs-static-i18n
+repo_url: ''
+
+docs_dir: docs/
+exclude_docs: overrides/
+
+copyright: ''
+
+theme:
+  name: material
+  font: false
+  custom_dir: docs/overrides
+
+  palette:
+    primary: blue
+  features:
+    - navigation.expand
+    - navigation.indexes
+    - navigation.sections
+    - navigation.tabs
+    - navigation.footer    
+    - toc.follow
+    - toc.integrate
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/ultrabug/mkdocs-static-i18n
+      name: ''
+
+extra_css:
+  - stylesheets/extra.css
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+nav:
+  - Home: index.md
+  - Teaching: teaching.md
+  - Research Topics: research-topics.md
+  - Workshops: workshops.md
+  - Awards: awards.md
+  - Membership: membership.md
+  - Books: books.md
+  - Research Grants: research-grants.md
+  - Papers: papers.md
+  - Conference : conference.md
+  - Reviewer: reviews.md
+
+
+
+plugins:
+  # - search
+  - i18n:
+      docs_structure: suffix
+      fallback_to_default: true
+      reconfigure_material: true
+      reconfigure_search: true
+      languages:
+        - locale: en
+          default: true
+          name: English
+          build: true
+          site_name: "Curriculum Vitae Shekoohiyan Sakine, PhD"
+        - locale: fa
+          name: 'فارسی'
+          build: true
+          site_name: "رزومه دکتر سکینه شکوهیان"
+          theme:
+            palette:
+              primary: blue
+          nav_translations:
+            Home: 'معرفی'
+            Teaching: 'تدریس'
+            Research Topics: 'زمینه‌های تحقیقاتی'
+            Thesis: 'پایان نامه'
+            Books: 'کتاب‌ها'
+            Research Grants: 'طرح‌های پژوهشی'
+            Awards: 'جوایز علمی'
+            Papers: 'مقالات'
+            Conference : 'همایش‌ها'
+            Workshops: 'کارگاه‌ها'
+            Reviewer: 'داوری مجلات'
+            Membership: 'عضویت‌ها'         
+
