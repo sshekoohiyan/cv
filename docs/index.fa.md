@@ -19,7 +19,7 @@ hide:
 فکس: ۸۲۸۸۴۵۸۰-۰۲۱  
 
 ## پروفایل‌های علم‌سنجی
-| [ISID](https://isid.research.ac.ir/Sakine_Shekoohiyan)  | [Scopus](https://www.scopus.com/authid/detail.uri?authorId=55626343000)  | [Google Scholar](https://scholar.google.com/citations?hl=en&user=Y3Ddn-cAAAAJ)  | [Publons](https://publons.com/wos-op/researcher/1581050/sakine-shekoohiyan/)  | [ORCID](https://orcid.org/0000-0002-0651-6521)
+ [ISID](https://isid.research.ac.ir/Sakine_Shekoohiyan)  | [Scopus](https://www.scopus.com/authid/detail.uri?authorId=55626343000)  | [Google Scholar](https://scholar.google.com/citations?hl=en&user=Y3Ddn-cAAAAJ)  | [Publons](https://publons.com/wos-op/researcher/1581050/sakine-shekoohiyan/)  | [ORCID](https://orcid.org/0000-0002-0651-6521) 
 
 ## سوابق تحصیلی
 

@@ -1,5 +1,5 @@
 ---
-title: "ournal Publication"
+title: "Journal Publication"
 hide: navigation
   toc
 ---
