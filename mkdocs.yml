@@ -1,5 +1,5 @@
 site_name: Curriculum Vitae Shekoohiyan Sakine
-site_url: https://yshekouhi.github.io/shekoohiyan
+site_url: https://yshekouhi.github.io/cv/
 repo_url: ''
 
 docs_dir: docs/
@@ -60,7 +60,6 @@ nav:
 
 
 plugins:
-  # - search
   - i18n:
       docs_structure: suffix
       fallback_to_default: true
