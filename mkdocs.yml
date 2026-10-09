@@ -1,6 +1,6 @@
 site_name: CV Shekoohiyan Sakine
 site_url: https://shekoohiyan.ir/
-repo_url:  https://sshekoohiyan.github.io/cv/
+repo_url:  ''
 
 docs_dir: docs/
 exclude_docs: overrides/
