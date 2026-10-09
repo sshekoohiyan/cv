@@ -1,6 +1,6 @@
 site_name: Curriculum Vitae Shekoohiyan Sakine
-site_url: https://sshekoohiyan.github.io/cv/
-repo_url: ''
+site_url: https://shekoohiyan.ir/
+repo_url:  https://sshekoohiyan.github.io/cv/
 
 docs_dir: docs/
 exclude_docs: overrides/
@@ -26,8 +26,8 @@ theme:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/yshekouhi/shekoohiyan
-      name: ''
+      link: https://github.com/sshekoohiyan
+      name: Github
 
 extra_css:
   - stylesheets/extra.css
@@ -71,7 +71,7 @@ plugins:
           default: true
           name: English
           build: true
-          site_name: "Curriculum Vitae Shekoohiyan Sakine, PhD"
+          site_name: "CV Shekoohiyan Sakine, PhD"
         - locale: fa
           name: 'فارسی'
           build: true
