@@ -36,6 +36,7 @@ extra:
       
 
 extra_css:
+  - stylesheets/fonts.css
   - stylesheets/extra.css
   - stylesheets/home.css
 

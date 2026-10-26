@@ -43,7 +43,7 @@ hide:
 
 <div class="hero-profile" markdown>
 
-<div class="profile-photo" role="img" aria-label="تصویر وحید ثابتیان"></div>
+<div class="profile-photo" role="img" aria-label="تصویر سکینه شکوهیان"></div>
 
 **دکتر سکینه شکوهیان**
 
